@@ -1,5 +1,3 @@
-/** @jsx React.DOM */
-
 var React = require('react');
 var ReactDOM = require('react-dom');
 var ReactWinJS = require('react-winjs');
@@ -7,7 +5,6 @@ var PeoplePage = require('./PeoplePage.jsx');
 var OtherPage = require('./OtherPage.jsx');
 var ProfilePicture = require('./ProfilePicture.jsx');
 var Data = require('./FakeData.js');
-
 var splitViewId = "rootSplitView";
 
 var splitViewConfigs = {

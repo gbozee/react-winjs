@@ -1,5 +1,3 @@
-/** @jsx React.DOM */
-
 var React = require('react');
 var ReactWinJS = require('react-winjs');
 var ProfilePicture = require('./ProfilePicture.jsx');
